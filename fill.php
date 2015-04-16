@@ -25,6 +25,7 @@ function getvalue($a)
 	global $date_time;
 	global $text;
 	global $food;
+	global $iit;
 
 	if ($a==='id')
 		return  $id[array_rand($id)];
@@ -48,6 +49,8 @@ function getvalue($a)
 		return "\"".$email[array_rand($email)]."\"";
 	else if ($a==='RandomText')
 		return "\"".$text[array_rand($text)]."\"";
+	else if ($a==='iit')
+		return "\"".$iit[array_rand($iit)]."\"";
 	else if ($a==='food')
 		return "\"".$food[array_rand($food)]."\"";
 

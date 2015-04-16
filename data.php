@@ -25,6 +25,8 @@ $text = array("Son agreed others exeter period myself few yet nature. Mention mr
 
 $food = array("Chili ", "Monster Biscuit ", "Loaded Potato ", "Waffle Breakfast Sandwich ", "Bacon Roadhouse ", "Root Beer ", "Waffle Fries ", "Chili Cheese Tots ", "Baconzilla Fries ", "Chicken Nuggets ", "French Toast Sticks ", "Apple Pie ", "Happy Meal ", "Spicy Chicken Sandwich ", "Submarine Sandwich ", "Animal Style Burger ", "Chicken Rings ", "Bucket of Chicken ", "Breakfast Croissandwich ", "Curly Fries ", "Hard Shell Taco ", "Teen Burger ", "Orange Chicken ", "Chubby Chicken ", "Chocolate Dipped Cone ", "Cookies ", "McFleury ", "Chocolate Fudge Brownie ", "Popcorn Chicken ", "Whopper ", "Soft Shell Taco ", "Rocky Road ", "Hot Dog ", "Onion Rings ", "Fries ", "Junior Chicken ", "Cinnabon ", "McDouble ", "Hashbrown ", "Chocolate Milkshake ", "Donut ", "Bacon Egg McMuffin ", "Frosty ", "Big Mac ", "Baconator ", "Ice Cream Cake ", "XXXL burger ", "Blizzard ", "Large Cheeseburger ");
 
-$data = array("default","id","names","phone","year","gender","address","email","DateTime","date","SmallNumbericalValues","RandomText","food");
+$iit = array("IIT Bhubaneswar","IIT Bombay","IIT Delhi","IIT Gandhinagar","IIT Guwahati","IIT Hyderabad","IIT Indore","IIT Jodhpur","IIT Kanpur","IIT Kharagpur","IIT Madras","IIT Mandi","IIT Patna","IIT Roorkee","IIT Ropar","IIT (BHU) Varanasi");
+
+$data = array("default","id","names","phone","year","gender","address","email","DateTime","date","SmallNumbericalValues","RandomText","food","iit");
 
 ?>
