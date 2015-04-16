@@ -5,3 +5,4 @@ Values of most commonly used data types and categories are stored in the data.ph
 
 To fill the database first configure the config.php file.
 
+Fill.php file fills the selected table with the selected data types and categories. At a time it fill at most 10 values.
